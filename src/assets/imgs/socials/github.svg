@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="45" cy="45" r="45" transform="translate(1120 1157)" fill="#ddd"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_de_masques_1" data-name="Groupe de masques 1" transform="translate(-1120 -1157)" clip-path="url(#clip-path)">
+    <path id="_317712_code_repository_github_repository_resource_icon" data-name="317712_code repository_github_repository_resource_icon" d="M45.02,0A45.007,45.007,0,0,0,30.8,87.7c2.251.411,2.959-.923,2.959-2.116,0-1.069.023-4.057,0-7.812-12.516,2.72-15.11-5.927-15.11-5.927-2.045-5.2-4.993-6.583-4.993-6.583-4.085-2.791.307-2.737.307-2.737,4.515.318,6.9,4.639,6.9,4.639,4.014,6.873,10.53,4.887,13.093,3.739a9.63,9.63,0,0,1,2.861-6.017c-9.992-1.137-20.5-5-20.5-22.241a17.389,17.389,0,0,1,4.631-12.074c-.464-1.137-2.011-5.714.442-11.911,0,0,3.778-1.21,12.372,4.616a42.693,42.693,0,0,1,22.534,0c8.594-5.823,12.367-4.616,12.367-4.616,2.453,6.2.909,10.775.447,11.911a17.385,17.385,0,0,1,4.625,12.074c0,17.29-10.521,21.093-20.548,22.2,1.615,1.393,3.08,4.093,3.08,8.291V85.6c0,1.2.726,2.535,3.01,2.1A45.009,45.009,0,0,0,45.02,0Z" transform="translate(1119.978 1158.108)" fill="#181616" fill-rule="evenodd"/>
+  </g>
+</svg>
